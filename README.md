@@ -8,6 +8,7 @@ Decision Transformer (DT) is a powerful algorithm for Offline Reinforcement Lear
 While DT can inherently handle Partially Observable Markov Decision Processes (POMDPs) through its attention mechanism, incorporating explicit memory structures can help process dependencies beyond the transformer's context window and improve overall performance metrics.
 
 This assignment explores the implementation and evaluation of memory-enhanced Decision Transformers for POMDP control tasks.
+> **Note**: Solution for GRU and LSTM will be added after the deadline.
 
 ### Setup
 
